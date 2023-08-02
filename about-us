@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./assets/style.css">
+    <title>Midland RockHounds</title>
+</head>
+
+<body>
+    <header>
+        <img src="./images/ballpark.png" alt="header static background"id="headerimg">
+        <h1>Midland RockHounds</h1>
+    </header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about-us.html">About Us</a></li>
+                <li><a href="upcoming.html">Upcoming Events</a></li>
+                <li><a href="contact-us.html">Contact Us</a></li>
+                <li><a href="standings.html">Standings</a></li>
+                <li><a href="news.html">News</a></li>
+            </ul>
+        </nav>
+    <section id="about-us">
+            <h1>About Us: </h1>
+            <h2>Executives</h2>
+            <p>Monty Hoppel - General Manager</p>
+            <p>Ray Fieldhouse - Assistant General Manager - Operations</p>
+            <p>Jeff VonHolle - General Manager - OVG</p>
+            <h2>Tickets & Sales</h2>
+            <p>Ryan Artzer - Director of Tickets</p>
+            <p>Jon Simmons - Sales & Community Relations Executive</p>
+            <p>Sam Page - Sales & Promotions Executive</p>
+            <p>Zelyn Zapata - Sales & Media Relations Executive</p>
+            <p>Joey Gennusa - Sales Executive</p>
+            <p>Edwin Hernandez - Sales Executive</p>
+            <p>Vanessa Redman - Office Manager</p>
+            <h2>Marketing & Communications</h2>
+            <p>Shelly Haenggi - Director of Sales & Marketing</p>
+            <p>Bob Hards - Director of Broadcasting</p>
+            <p>Peyton Taylor - Director of Video Production & Entertainment</p>
+            <p>Rylee Darnell - Digital Media Assistant </p>
+            <h2>Ballpark Operations</h2>
+            <p>Al Melville - Concessions Operations Manager</p>
+            <p>Dan Knapinski - Director of Operations</p>
+            <p>Brian Mitchell - Heads Groundskeeper</p>
+            <p>Mitch Riddle - Grounds Assistant</p>
+    </section>
+</body>
+
+</html>
